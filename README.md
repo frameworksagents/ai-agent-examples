@@ -62,8 +62,8 @@ https://frameworksagents.com
 
 Documentation principale :
 
-https://github.com/fwagents/frameworksagents
+https://github.com/frameworksagents/frameworksagents
 
 Outils et templates :
 
-https://github.com/fwagents/ai-agent-tools
+https://github.com/frameworksagents/ai-agent-tools
